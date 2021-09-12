@@ -1,0 +1,32 @@
+
+.blue-background{
+  background-color: blue;
+  text-align: center;
+}
+
+.white-background{
+  display: inline;
+  margin: 20px;
+  /* padding: 10px; */
+  background-color: white;
+}
+
+.black-background{
+  display: inline;
+  margin: 20px;
+  /* padding: 10px; */
+  background-color: black;
+}
+
+
+.row {
+    text-align: center;
+}
+.item {
+    display: inline-block;
+    margin-right: 6px;
+    background-color: #EEE;
+}
+.clear {
+    clear: both;
+}
